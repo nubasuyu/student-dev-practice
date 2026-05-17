@@ -80,7 +80,7 @@ The application can:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/student-dev-practice.git
+git clone https://github.com/nubasuyu/student-dev-practice.git
 ```
 
 Move into the project directory:
